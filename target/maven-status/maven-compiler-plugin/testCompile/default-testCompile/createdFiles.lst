@@ -1,0 +1,17 @@
+PageObjects/ContactSearchPageIOS.class
+Pages/SignInPage.class
+Tests/SignInPageTest.class
+PageObjects/ContactSearchPageAndroid.class
+AppiumSupport/AppiumController$OS.class
+Tests/SignInPageData.class
+Pages/SignInPageAndroidID.class
+Test/Test_ContactSearch.class
+Test/BaseTestClass.class
+Pages/SignInPageAndroid.class
+AppiumSupport/AppiumController.class
+Tests/SignInPageTest$1.class
+PageObjects/ContactDetailPageIOS.class
+PageObjects/ContactSearchPage.class
+PageObjects/ContactDetailPageAndroid.class
+AppiumSupport/AppiumController$1.class
+PageObjects/ContactDetailPage.class
